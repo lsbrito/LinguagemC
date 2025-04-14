@@ -1,3 +1,8 @@
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Licença](https://img.shields.io/badge/Licença-MIT-green)
+
+
 # 🚀 LinguagemC: Aprenda C do seu jeito! 💻✨
 
 Bem-vindo(a) ao **LinguagemC**, um repositório criado com muito carinho e criatividade para ajudar estudantes da graduação — especialmente aqueles e aquelas da disciplina **"Algoritmos e Programação I"** — a aprenderem os principais conceitos de **lógica de programação** e **algoritmos** usando a poderosa (e clássica!) **linguagem C**. 🔧🧠

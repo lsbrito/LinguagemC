@@ -80,15 +80,15 @@ Para você, estudante da disciplina **Algoritmos e Programação I**, que busca 
 Explore, edite, quebre e conserte os códigos. O aprendizado vem da prática, da tentativa e erro e da colaboração.
 
 ## 📺 Vídeo aulas
-- [Linguagem C - Começando do absoluto zero - gratuito (2022)](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
-- [Linguagem C - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_)
-- [Curso linguagem c](https://www.youtube.com/watch?v=cZRuFwzjJ8E&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)
+- [Linguagem C - Começando do absoluto zero - gratuito (2022)](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2) *(abra em nova aba)*
+- [Linguagem C - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_) *(abra em nova aba)*
+- [Curso linguagem c](https://www.youtube.com/watch?v=cZRuFwzjJ8E&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R) *(abra em nova aba)*
 
 Substitua os links acima pelos seus vídeos ou playlists favoritas!
 
 ## 🔗 Recursos úteis sobre C
-- [Linguagem C do Zero ao absoluto](https://www.programiz.com/c-programming)
-- [Guia C para iniciantes (em PT-BR)](https://www.tutorialspoint.com/cprogramming/index.htm)
+- [Linguagem C do Zero ao absoluto](https://www.programiz.com/c-programming) *(abra em nova aba)*
+- [Guia C para iniciantes (em PT-BR)](https://www.tutorialspoint.com/cprogramming/index.htm) *(abra em nova aba)*
 - [Linguagem C guia completo](https://embarcados.com.br/linguagem-c-guia-completo/) *(abra em nova aba)*
 
 

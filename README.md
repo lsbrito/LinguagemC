@@ -89,8 +89,7 @@ Substitua os links acima pelos seus vídeos ou playlists favoritas!
 ## 🔗 Recursos úteis sobre C
 - [Linguagem C do Zero ao absoluto](https://www.programiz.com/c-programming)
 - [Guia C para iniciantes (em PT-BR)](https://www.tutorialspoint.com/cprogramming/index.htm)
-- [Linguagem C guia completo](https://embarcados.com.br/linguagem-c-guia-completo/)
-- - <a href="https://embarcados.com.br/linguagem-c-guia-completo/" target="_blank">Linguagem C guia completo</a>
+- [Linguagem C guia completo](https://embarcados.com.br/linguagem-c-guia-completo/) *(abra em nova aba)*
 
 
 ## 📄 Licença

@@ -1,105 +1,106 @@
+# 💻 Linguagem C — Algoritmos & Programação I
+
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Licença](https://img.shields.io/badge/Licença-MIT-green)
 
+<img src="assets/pixel-classroom.gif" alt="Cena em pixel art animada com estudantes programando em C" width="600"/>
 
-# 🚀 LinguagemC: Aprenda C do seu jeito! 💻✨
-
-Bem-vindo(a) ao **LinguagemC**, um repositório criado com muito carinho e criatividade para ajudar estudantes da graduação — especialmente aqueles e aquelas da disciplina **"Algoritmos e Programação I"** — a aprenderem os principais conceitos de **lógica de programação** e **algoritmos** usando a poderosa (e clássica!) **linguagem C**. 🔧🧠
-
----
-
-## 🎯 Nosso Objetivo
-
-> Tornar o aprendizado da linguagem C algo **moderno, leve e divertido**, sem perder a profundidade e o rigor lógico que a linguagem exige.
-
-Aqui você vai encontrar exemplos, desafios, explicações e exercícios que fogem do tradicional "Hello World" e mergulham em **problemas reais**, **criatividade computacional** e **pensamento lógico estruturado**. Tudo isso com uma pegada jovem, visual e colaborativa! 🤝🌈
+> Um repositório educacional com uma abordagem moderna, criativa e não tradicional para ensinar **lógica de programação e linguagem C**.  
+> Ideal para estudantes da disciplina **Algoritmos e Programação I**.
 
 ---
 
-## 📚 O que você vai aprender aqui?
+## 📚 Sumário
 
-O repositório está organizado com foco nos **fundamentos essenciais da programação**, passando por várias técnicas clássicas da lógica e do algoritmo. Entre elas, você vai explorar:
-
-- 🧠 **Variáveis e constantes**
-- 📏 **Tipos de dados (inteiros, reais, caracteres...)**
-- 🔄 **Estruturas de repetição** (`for`, `while`, `do...while`)
-- 🔀 **Estruturas de decisão** (`if`, `else`, `switch`)
-- 📦 **Operadores matemáticos, lógicos e relacionais**
-- 💬 **Entrada e saída de dados**
-- 🗂️ **Organização do código com funções (em breve!)**
-- 💡 **Algoritmos clássicos**: cálculo de média, IMC, ordenação simples, verificações lógicas, jogos de texto, entre outros!
-
----
-
-## 🧩 Por que a linguagem C?
-
-A linguagem C é como a raiz de uma árvore: **forte, simples e fundamental**. 🌳  
-Ela está por trás de diversos sistemas operacionais, compiladores e tecnologias que você usa todos os dias — e aprender C é como aprender a pensar como um(a) programador(a) de verdade.
+- [🎯 Objetivo](#-objetivo)
+- [📘 O que você vai aprender](#-o-que-você-vai-aprender)
+- [🚀 Por que a linguagem C](#-por-que-a-linguagem-c)
+- [👩‍🎓 Para quem foi feito](#-para-quem-foi-feito)
+- [🗂 Organização do repositório](#-organização-do-repositório)
+- [🧠 Aprenda com exemplos visuais](#-aprenda-com-exemplos-visuais)
+- [📺 Vídeo aulas](#-vídeo-aulas)
+- [🔗 Recursos úteis sobre C](#-recursos-úteis-sobre-c)
+- [📄 Licença](#-licença)
+- [🙌 Quer contribuir?](#-quer-contribuir)
 
 ---
 
-## 🛠️ Para quem foi feito?
+## 🎯 Objetivo
 
-👩‍🎓 Estudantes iniciantes da graduação  
-👨‍🏫 Professores(as) que desejam inspirar suas turmas  
-🤖 Curiosos e makers que querem colocar a mão no código  
-🎮 Desenvolvedores(as) que querem voltar às raízes
+Criar um acervo de materiais didáticos e interativos que explore os fundamentos da lógica computacional com **exemplos em linguagem C**, pensado especialmente para discentes de cursos de graduação.
 
 ---
 
-## 📂 Organização do repositório
+## 📘 O que você vai aprender
+
+| Conceito                     | Descrição                                                                 |
+|-----------------------------|---------------------------------------------------------------------------|
+| ✅ Variáveis                 | Armazenam valores para uso posterior                                      |
+| ✅ Constantes                | Valores fixos no tempo de execução                                        |
+| ✅ Estruturas de Decisão     | `if`, `else`, `switch` para controle do fluxo                            |
+| ✅ Laços de Repetição        | `while`, `for`, `do...while` para repetir tarefas                        |
+| ✅ Operadores                | Aritméticos, relacionais e lógicos                                       |
+| ✅ Entrada/Saída             | Uso de `scanf`, `printf` e outras funções da stdio.h                     |
+| ✅ Algoritmos Básicos        | Lógica de ordenação, contagem, comparação e cálculo                      |
+| ✅ Organização do Código     | Comentários, indentação, boas práticas                                   |
+
+---
+
+## 🚀 Por que a linguagem C?
+
+Porque ela é a **base da programação moderna**! Aprender C ajuda a compreender o funcionamento real de computadores, e prepara o caminho para outras linguagens como Python, Java, Go, Rust e C++.
+
+---
+
+## 👩‍🎓 Para quem foi feito?
+
+Para você, estudante da disciplina **Algoritmos e Programação I**, que busca entender de forma leve e prática como a programação funciona “por dentro”.
+
+---
+
+## 🗂 Organização do repositório
 
 ```bash
-LinguagemC/
-├── 01-Introducao/
-│   └── variaveis_constantes.c
-├── 02-Decisao/
-│   └── if_else_switch.c
-├── 03-Repeticao/
-│   └── loops.c
-├── 04-Exercicios/
-│   └── desafios_logica.c
-├── README.md
+├── exemplos/               # Códigos comentados por temas
+├── desafios/               # Problemas para testar seus conhecimentos
+├── imagens/                # Artes, gráficos, prints
+├── docs/                   # Material teórico em Markdown
+├── LICENSE                 # Licença MIT
+└── README.md               # Essa página aqui ✨
 ```
-## 🧠 Aprenda com exemplos visuais, desafios criativos e comentários no código!
+# Linguagem C
 
-Todos os códigos aqui têm **comentários explicativos** e, sempre que possível, **exemplos ilustrados com diagramas e fluxogramas** (em imagens ou ASCII art).  
+🧠 **Aprenda com exemplos visuais, desafios criativos e comentários no código!**
+Explore, edite, quebre e conserte os códigos. O aprendizado vem da prática, da tentativa e erro e da colaboração.
 
-Além disso, teremos **desafios lúdicos** para estimular o raciocínio lógico, como:
+## 📺 Vídeo aulas
+- [Introdução à Linguagem C](#)
+- [Lógica com Estruturas Condicionais](#)
+- [Laços de Repetição em C na prática](#)
 
-- 🎲 **Jogo do Par ou Ímpar**
-- ⏰ **Calculadora de Tempo de Estudo**
-- 🧮 **Simulador de Caixa Eletrônico**
-- 💡 **Desafio das Lâmpadas Mágicas** (sim, vai ter isso!)
+Substitua os links acima pelos seus vídeos ou playlists favoritas!
 
----
+## 🔗 Recursos úteis sobre C
+- [Tutorial em C — Programiz](https://www.programiz.com/c-programming)
+- [Guia C para iniciantes (em PT-BR)](https://www.tutorialspoint.com/cprogramming/index.htm)
+- [Linguagem C guia completo](https://embarcados.com.br/linguagem-c-guia-completo/)
 
-## 📬 Quer contribuir?
+## 📄 Licença
+Este repositório está sob a Licença MIT.
 
-Este projeto está só começando. Se você é **aluno(a)**, **professor(a)**, **entusiasta** ou tem alguma ideia para deixar esse repositório ainda mais incrível,
-**mande um pull request** ou abra uma issue! Vamos construir isso juntos. 💬✨
+De forma resumida, a licença MIT permite que qualquer pessoa:
 
----
+✅ Use  
+✅ Copie  
+✅ Modifique  
+✅ Distribua  
+✅ Venda (inclusive como parte de um software comercial)
 
-## ❤️ Feito com propósito
+...com uma única condição:  
+🔸 Manter o aviso de copyright e a licença original no código-fonte.
 
-Este repositório nasceu da vontade de tornar o **ensino de programação mais acessível, criativo e significativo**.  
-Acreditamos que programar é uma forma de pensar, de se expressar e de transformar o mundo ao nosso redor. 🌍💡
+Leia o arquivo `LICENSE` para mais detalhes.
 
-> “Programar é o mais próximo de ter superpoderes.” – todo mundo que descobriu que sabe programar
-
----
-
-### 📌 Informações finais
-
-- **Disciplina relacionada**: Algoritmos e Programação I  
-- **Público-alvo**: Estudantes de graduação em cursos de computação, engenharia, sistemas e afins  
-- **Linguagem principal**: C  
-
----
-
-**Vamos codar com propósito, com criatividade e com coragem.**  
-**#BoraC!** 💪🧠✨
-
-
+## 🙌 Quer contribuir?
+Fique à vontade para abrir issues, pull requests ou sugestões! Este projeto é aberto para a comunidade aprender e crescer junta.

@@ -39,16 +39,17 @@ Criar um acervo de materiais didáticos e interativos que explore os fundamentos
 
 ## 📘 O que você vai aprender
 
-| Conceito                     | Descrição                                                                 |
-|-----------------------------|---------------------------------------------------------------------------|
-| ✅ Variáveis                 | Armazenam valores para uso posterior                                      |
-| ✅ Constantes                | Valores fixos no tempo de execução                                        |
-| ✅ Estruturas de Decisão     | `if`, `else`, `switch` para controle do fluxo                            |
-| ✅ Laços de Repetição        | `while`, `for`, `do...while` para repetir tarefas                        |
-| ✅ Operadores                | Aritméticos, relacionais e lógicos                                       |
-| ✅ Entrada/Saída             | Uso de `scanf`, `printf` e outras funções da stdio.h                     |
-| ✅ Algoritmos Básicos        | Lógica de ordenação, contagem, comparação e cálculo                      |
-| ✅ Organização do Código     | Comentários, indentação, boas práticas                                   |
+| Conceito                     | Descrição                                                                 | Link para conteúdo                  |
+|-----------------------------|---------------------------------------------------------------------------|-------------------------------------|
+| ✅ Variáveis                 | Armazenam valores para uso posterior                                      | [Abrir](./content/variaveis.md)     |
+| ✅ Constantes                | Valores fixos no tempo de execução                                        | [Abrir](./content/constantes.md)    |
+| ✅ Estruturas de Decisão     | `if`, `else`, `switch` para controle do fluxo                            | [Abrir](./content/decisao.md)       |
+| ✅ Laços de Repetição        | `while`, `for`, `do...while` para repetir tarefas                        | [Abrir](./content/repeticao.md)     |
+| ✅ Operadores                | Aritméticos, relacionais e lógicos                                       | [Abrir](./content/operadores.md)    |
+| ✅ Entrada/Saída             | Uso de `scanf`, `printf` e outras funções da stdio.h                     | [Abrir](./content/entrada_saida.md) |
+| ✅ Algoritmos Básicos        | Lógica de ordenação, contagem, comparação e cálculo                      | [Abrir](./content/algoritmos.md)    |
+| ✅ Organização do Código     | Comentários, indentação, boas práticas                                   | [Abrir](./content/organizacao.md)   |
+
 
 ---
 

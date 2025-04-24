@@ -20,7 +20,7 @@
 
 - [🎯 Objetivo](#-objetivo)
 - [📘 O que você vai aprender](#-o-que-você-vai-aprender)
-- [🔗 Lista de exercícios em C](#lista-de-exercícios-em-c)
+- [🔗 Lista de exercícios em C](#-lista-de-exercícios-em-c)
 - [🚀 Por que a linguagem C](#-por-que-a-linguagem-c)
 - [👩‍🎓 Para quem foi feito](#-para-quem-foi-feito)
 - [🗂 Organização do repositório](#-organização-do-repositório)

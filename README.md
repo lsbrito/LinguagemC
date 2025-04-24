@@ -20,6 +20,7 @@
 
 - [🎯 Objetivo](#-objetivo)
 - [📘 O que você vai aprender](#-o-que-você-vai-aprender)
+- [🔗 Lista de exercícios em C](#lista-de-exercícios-em-c)
 - [🚀 Por que a linguagem C](#-por-que-a-linguagem-c)
 - [👩‍🎓 Para quem foi feito](#-para-quem-foi-feito)
 - [🗂 Organização do repositório](#-organização-do-repositório)
@@ -50,6 +51,9 @@ Criar um acervo de materiais didáticos e interativos que explore os fundamentos
 | ✅ Algoritmos Básicos        | Lógica de ordenação, contagem, comparação e cálculo                      | [Abrir](./content/algoritmos.md)    |
 | ✅ Organização do Código     | Comentários, indentação, boas práticas                                   | [Abrir](./content/organizacao.md)   |
 
+---
+
+## 🔗 Lista de exercícios em C
 
 ---
 

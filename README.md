@@ -55,8 +55,9 @@ Criar um acervo de materiais didáticos e interativos que explore os fundamentos
 
 ## 🔗 Lista de exercícios em C
 
-[Lista 01 While](./exemplos/exercicios-while-01.md)
-[Lista 02 While](./exemplos/exercicios-while-02.md)
+ [Lista 01 While](./exemplos/exercicios-while-01.md) 
+
+ [Lista 02 While](./exemplos/exercicios-while-02.md) 
 
 ---
 

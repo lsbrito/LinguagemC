@@ -1,13 +1,13 @@
 
 #### 📄 `repeticao.md`
 ```md
-
-# 🔁 Laços de Repetição
+```
+## 🔁 Laços de Repetição
 
 Usados para repetir tarefas, como um robô!
 
 ## 📌 Estrutura básica do `while`:
-````
+
 ```c
 while (condicao) {
     // Bloco de código a ser executado enquanto a condição for verdadeira

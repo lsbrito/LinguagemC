@@ -74,7 +74,8 @@ Para você, estudante da disciplina **Algoritmos e Programação I**, que busca 
 ## 🗂 Organização do repositório
 
 ```bash
-├── exemplos/               # Códigos comentados por temas
+├── exemplos/               # Lisa de exercícios
+├── Codigo Fonte/           # Códigos comentados por temas
 ├── desafios/               # Problemas para testar seus conhecimentos
 ├── imagens/                # Artes, gráficos, prints
 ├── docs/                   # Material teórico em Markdown

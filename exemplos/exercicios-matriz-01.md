@@ -1,11 +1,13 @@
-🌿 Lista de Exercícios – Matrizes em Linguagem C
-📚 Utilize apenas if, else, for, while e matriz.
-💡 Evite o uso de funções externas, ponteiros, structs ou bibliotecas além de stdio.h.
+## 🌿 Lista de Exercícios – Matrizes em Linguagem C
+
+#### 📚 Utilize apenas if, else, for, while e matriz.
+#### 💡 Evite o uso de funções externas, ponteiros, structs ou bibliotecas além de stdio.h.
 
 ✅ Questão 1 (Resolvida)
 Tabuleiro de Números Ímpares:
 Crie uma matriz 3x3 e preencha com os 9 primeiros números ímpares em ordem crescente. Em seguida, imprima a matriz na tela no formato de tabela.
 
+```c
 #include <stdio.h>
 
 int main() {
@@ -31,14 +33,12 @@ int main() {
 
     return 0;
 }
-
+```
 ✅ Questão 2 (Resolvida)
 Contagem de Números Pares em uma Matriz:
 Leia os valores de uma matriz 4x4 e conte quantos números pares ela possui. Exiba a matriz e o total de números pares encontrados.
 
-c
-Copiar
-Editar
+```c
 #include <stdio.h>
 
 int main() {
@@ -69,63 +69,64 @@ int main() {
 
     return 0;
 }
-📝 Questões 3 a 22
-Caminho do Robô Explorador:
+```
+
+📝 Questões 3 - Caminho do Robô Explorador:
 Um robô explora um terreno representado por uma matriz 5x5 com valores 0 (livre) ou 1 (obstáculo). Conte quantos caminhos livres existem.
 
-Espelho Vertical:
+📝 Questões 4 - Espelho Vertical:
 Leia uma matriz 3x4 e crie uma nova matriz que seja o espelho vertical da original.
 
-Maior Elemento da Diagonal Principal:
+📝 Questões 5 - Maior Elemento da Diagonal Principal:
 Leia uma matriz quadrada 4x4 e encontre o maior valor da diagonal principal.
 
-Soma das Bordas da Matriz:
+📝 Questões 6 - Soma das Bordas da Matriz:
 Leia uma matriz 4x4 e calcule a soma dos elementos que estão nas bordas (primeira/última linha e coluna).
 
-Temperatura Média Semanal:
+📝 Questões 7 - Temperatura Média Semanal:
 Uma matriz 7x4 armazena a temperatura de 7 dias em 4 horários diferentes. Calcule a média de temperatura de cada dia.
 
-Jogo da Velha (Início):
+📝 Questões 8 - Jogo da Velha (Início):
 Preencha uma matriz 3x3 com os valores 0 (vazio), 1 (X), 2 (O). Conte quantos X e quantos O existem.
 
-Imagem em Preto e Branco:
+📝 Questões 9 - Imagem em Preto e Branco:
 Uma imagem P&B é representada por uma matriz 10x10 com valores 0 (preto) e 255 (branco). Conte quantos pixels brancos há na imagem.
 
-Verificador de Linhas Iguais:
+📝 Questões 10 - Verificador de Linhas Iguais:
 Leia uma matriz 3x3 e verifique se existe alguma linha com todos os elementos iguais.
 
-Soma de Colunas Pares:
+📝 Questões 11 - Soma de Colunas Pares:
 Dada uma matriz 5x5, calcule a soma dos elementos das colunas pares (índices 0, 2, 4).
 
-Detectando Calor Extremo:
+📝 Questões 12 -Detectando Calor Extremo:
 Matriz 5x7 armazena temperaturas. Marque com 1 as posições onde a temperatura ultrapassa 40°C e com 0 caso contrário.
 
-Contador de Números Negativos:
+📝 Questões 13 - Contador de Números Negativos:
 Leia uma matriz 6x6 com inteiros e conte quantos são negativos.
 
-Notas de Alunos:
+📝 Questões 14 - Notas de Alunos:
 Matriz 5x3 com notas de 5 alunos em 3 provas. Calcule a média de cada aluno e diga se foi aprovado (média ≥ 7).
 
-Transformar Matriz em Triangular Superior:
+📝 Questões 15 - Transformar Matriz em Triangular Superior:
 Zere os valores abaixo da diagonal principal de uma matriz 4x4.
 
-Troca de Linhas:
+📝 Questões 16 - Troca de Linhas:
 Leia uma matriz 4x4 e troque a 1ª linha com a última.
 
-Soma de uma Linha Específica:
+📝 Questões 17 - Soma de uma Linha Específica:
 Dada uma matriz 5x5, some todos os elementos da linha 2 (índice 1).
 
-Matriz Identidade Falsa:
+📝 Questões 18 - Matriz Identidade Falsa:
 Crie uma matriz 4x4 com 1 na diagonal principal e 0 no restante. (Matriz identidade).
 
-Jogo de Batalha Naval (Visualização):
+📝 Questões 19 - Jogo de Batalha Naval (Visualização):
 Matriz 10x10 com valores 0 (água) e 1 (barco). Mostre a matriz com ~ para água e # para barco.
 
-Quantos Três?:
+📝 Questões 20 - Quantos Três?:
 Leia uma matriz 4x4 e diga quantas vezes o número 3 aparece.
 
-Soma das Duas Diagonais:
+📝 Questões 21 -Soma das Duas Diagonais:
 Em uma matriz 5x5, calcule a soma da diagonal principal e diagonal secundária.
 
-Tabuleiro Numérico com Zonas de Impacto:
+📝 Questões 22 - Tabuleiro Numérico com Zonas de Impacto:
 Crie uma matriz 5x5 com valores aleatórios entre 1 e 20. Imprima a matriz e marque com * as posições que têm valor maior que 15.

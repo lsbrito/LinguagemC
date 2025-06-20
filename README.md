@@ -58,6 +58,8 @@ Criar um acervo de materiais didáticos e interativos que explore os fundamentos
  [Lista 01 While](./exemplos/exercicios-while-01.md) 
 
  [Lista 02 While](./exemplos/exercicios-while-02.md) 
+ 
+ [Lista 03 Matriz](./exemplos/exercicios-matriz-01.md)
 
 ---
 

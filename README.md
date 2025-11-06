@@ -50,6 +50,7 @@ Criar um acervo de materiais didáticos e interativos que explore os fundamentos
 | ✅ Entrada/Saída             | Uso de `scanf`, `printf` e outras funções da stdio.h                     | [Abrir](./content/entrada_saida.md) |
 | ✅ Algoritmos Básicos        | Lógica de ordenação, contagem, comparação e cálculo                      | [Abrir](./content/algoritmos.md)    |
 | ✅ Organização do Código     | Comentários, indentação, boas práticas                                   | [Abrir](./content/organizacao.md)   |
+| ✅ Vetor                     | O que é e exemplos                                                       | [Abrir](./content/vetor.md)   |
 
 ---
 

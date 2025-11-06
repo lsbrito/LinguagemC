@@ -75,6 +75,33 @@ int numeros[5];     // vetor de 5 inteiros
 char nome[50];      // vetor de 50 caracteres
 float notas[10];    // vetor de 10 números reais
 ````
+Exemplo de captura de nome e exibição com SCANF, 
+⚠️ Importante:
+O scanf("%s", nome); não captura espaços. Se o usuário digitar Leandro Silva, apenas Leandro será armazenado.
+
+Para capturar nomes completos com espaços, o ideal continua sendo fgets().
+
+```c
+#include <stdio.h>
+
+int main() {
+    char nome[50];
+    int i = 0;
+
+    printf("Digite seu nome (sem espaços): ");
+    scanf("%s", nome);  // Captura apenas até o primeiro espaço
+
+    printf("Seu nome é: ");
+    while (nome[i] != '\0') {
+        printf("%c", nome[i]);
+        i++;
+    }
+
+    return 0;
+}
+
+````
+
 ## Capturar e exibir nome completo, utilizando FOR e Vetor
 ```c
 #include <stdio.h>

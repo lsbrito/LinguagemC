@@ -78,7 +78,7 @@ float notas[10];    // vetor de 10 números reais
 
 ### Exemplo de captura de nome e exibição com SCANF, 
 ⚠️ Importante:
-O scanf("%s", nome); não captura espaços. Se o usuário digitar Leandro Silva, apenas Leandro será armazenado.
+O scanf("%s", nome); não captura espaços. Se o usuário digitar Leandro Brito, apenas Leandro será armazenado. Neste caso com o SCANF será necessário captura da seu seguinte forma Leandro-Brito ou leandro_Brito.
 
 Para capturar nomes completos com espaços, o ideal continua sendo fgets().
 

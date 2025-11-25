@@ -56,3 +56,11 @@ O aluno deve implementar um **programa completo em C** que:
 Imagine que você é o engenheiro-chefe da nave.  
 Seu código será o **"painel de controle"** que decidirá se a tripulação chegará com segurança ao próximo planeta!
 
+## 🚀 Missão Final
+Após concluir o desenvolvimento do modelo computacional, o programa deverá ser **enviado para o e-mail de um dos comandantes da nave** no endereço:  
+
+📩 **lbsantos@ufrb.edu.br**  
+📝 **Assunto:** *Prova Monitoria 2026.1*  
+
+Somente assim sua solução será oficialmente registrada nos arquivos da Frota Estelar Orion!
+

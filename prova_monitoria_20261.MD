@@ -64,3 +64,14 @@ Após concluir o desenvolvimento do modelo computacional, o programa deverá ser
 
 Somente assim sua solução será oficialmente registrada nos arquivos da Frota Estelar Orion!
 
+
+---
+
+## 🌌 Mensagem Motivadora
+*"O espaço é vasto, o tempo é relativo, e o conhecimento é a única luz que atravessa dimensões.  
+Cada linha de código que você escrever será como uma estrela acesa no infinito.  
+Lembre-se: não estamos apenas programando, estamos construindo pontes para o futuro da humanidade."*  
+
+Os **Comandantes da Frota Estelar – Alex, Iuri e Leandro** estarão aguardando sua solução e irão analisá-la com rigor e admiração.  
+Prepare-se, jovem engenheiro: o destino da missão Orion está em suas mãos! 🌠
+
